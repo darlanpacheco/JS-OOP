@@ -1,2 +1,3 @@
 # OOPTS
- TS object oriented programming
+
+JS object oriented programming
